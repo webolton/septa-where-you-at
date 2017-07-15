@@ -14,6 +14,7 @@
     "express": "~4.15.2",
     "googlemaps": "^1.12.0",
     "morgan": "~1.8.1",
+    "pryjs": "^1.0.3",
     "pug": "~2.0.0-beta11",
     "requestify": "^0.2.5",
     "serve-favicon": "~2.4.2"
